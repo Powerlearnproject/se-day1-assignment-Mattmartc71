@@ -104,7 +104,7 @@ Debugging tools: Utilize efficient debugging techniques.
 
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Software testing is a systematic process to ensure software quality. 
 Unit testing focuses on individual code components, verifying their correctness. 
 Integration testing combines these components to assess their interaction and data flow. 
@@ -113,6 +113,7 @@ Acceptance testing determines if the software meets user needs and business obje
 
 
 #Part 2: Introduction to AI and Prompt Engineering
+
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the art of crafting effective prompts to guide AI models in generating desired outputs. It involves carefully constructing text-based instructions to elicit specific responses from the AI. Think of it as providing a blueprint for the AI to follow.   
